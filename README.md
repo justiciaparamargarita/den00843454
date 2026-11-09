@@ -1,7 +1,11 @@
 # DEN00843454
 
-Denuncia penal contra los fiscales Juan Ernesto Rozas, Martín Lapadu y Gustavo Galante por complicidad en la supresión de la Historia Clínica del Hospital Piñero
+Denuncia contra los fiscales Rozas, Lapadú y Galante, por la eliminación de parte de la historia clínica.
 
-| Fecha | Documento |
-|---|---|
-| 2022-03-16 | [Resolución de archivo (Fiscal Verónica Andrade)](2022/03/16/hilo-resolucion-den00843454-funcionario-del-m.e0599.md) |
+Expediente: «FUNCIONARIO DEL MPF s/inf. Art: 0 C.P.» (también citada como DEN 847821)
+
+Deriva de: [MPF00462972](https://github.com/justiciaparamargarita/mpf00462972)
+
+## Archivos
+
+- 2022-03-16 [Mail «RESOLUCIÓN DEN00843454 “FUNCIONARIO DEL MPF s/inf. Art: 0 C.P.”» · organismosutcnorte@ → yo](2022/03/16/hilo-resolucion-den00843454-funcionario-del-m.e0599.md)
